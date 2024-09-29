@@ -58,6 +58,8 @@ upos-sz-mirrorcos??.bilivideo.com = server:https://doh.pub/dns-query // BiliBili
 upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服务器（百度云）
 upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服务器（百度云）
 
+# > 自定义
+*.jrants.com = server:https://cloudflare-dns.com/dns-query // jrants图集
 
 # > Nsfw Start
 # jrants.com = 172.67.220.164
