@@ -1,7 +1,7 @@
 #!name=My_host
-#!desc=最后更新时间 2024-09-29 
+#!desc=最后更新时间 2024-10-08 
 #!author=ParkCR
-#!date=2024-09-29
+#!date=2024-10-08 
 
 
 [Host]
@@ -60,6 +60,7 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 
 # > 自定义
 *.jrants.com = server:https://cloudflare-dns.com/dns-query // jrants图集
+*.eporner.com = server:https://cloudflare-dns.com/dns-query // eporner
 
 # > Nsfw Start
 # jrants.com = 172.67.220.164
