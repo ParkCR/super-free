@@ -1,8 +1,8 @@
 #!url=https://ghp.ci/https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2024-10-16 
+#!desc=最后更新时间 2024-11-26 
 #!author=ParkCR
-#!date=2024-10-16 
+#!date=2024-11-26 
 
 
 [Host]
@@ -65,6 +65,9 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 
 # > Nsfw Start
 # jrants.com = 172.67.220.164
+# www.sex.com = 209.50.58.179
+www.sex.com = 18.194.126.46
+cdn.sex.com = 169.150.236.98
 livedoor.blogimg.jp = 18.238.80.58
 resize.blogsys.jp = 18.238.80.58
 www.24fa.com = 162.159.250.11
