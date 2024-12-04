@@ -1,8 +1,7 @@
 #!url=https://ghp.ci/https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2024-11-29 
+#!desc=最后更新时间 2024-12-04 
 #!author=ParkCR
-#!date=2024-11-29 
 
 
 [Host]
@@ -75,9 +74,9 @@ legs.a-hadaka.jp = 104.17.221.30
 bi-girl.net = 104.17.221.30
 r18.clickme.net = 104.17.221.30
 cdn.clickme.net = 104.17.221.30
-translate.google.com = 64.233.160.176
-translate.googleapis.com = 64.233.160.176
-translate-pa.googleapis.com = 64.233.160.176
+translate.google.com = 120.25.234.79
+translate.googleapis.com = 120.25.234.79
+translate-pa.googleapis.com = 120.25.234.79
 missav.com = 104.17.221.30
 cdn.buondua.com = 104.17.221.30
 i0.buondua.com = 104.17.221.30
@@ -85,8 +84,6 @@ buondua.com = 104.17.221.30
 img.16k.club = 104.17.221.30
 16k.club = 104.17.221.30
 cn.16k.club = 104.17.221.30
-everiaclub.com = 104.17.221.30
-everia.club = 104.17.221.30
 video.twimg.com = 146.75.92.158
 pbs.twimg.com = 146.75.28.159
 www.javbus.com = 104.17.221.30
@@ -97,6 +94,22 @@ sv2.paipancon.com = 104.21.234.45
 fl.paipancon.com = 104.17.221.30
 paipancon.com = 104.21.234.45
 # > Nsfw End
+
+# > everia Start
+everia.club = 104.17.221.30
+takobox.top = 104.17.221.30
+hitsuji.my.id = 104.17.221.30
+quenbox.top = 104.17.221.30
+kumabox.top = 104.17.221.30
+yunabox.top = 104.17.221.30
+nekobox.top = 104.17.221.30
+nezumi.my.id = 104.17.221.30
+imgyagi.top = 104.17.221.30
+everiaclub.com = 104.17.221.30
+everiaeveria.b-cdn.net = 104.17.221.30
+www.everiaclub.com = 104.17.221.30
+files.everiaclub.com = 104.17.221.30
+# > everia End
 
 # > Supjav Start
 supjav.com = 104.17.221.30
@@ -120,3 +133,15 @@ www.avple.tv = 172.67.71.70
 en.avple.tv = 172.67.71.70
 avple.tv = 172.67.71.70
 # > avple End
+
+# > searxng搜索引擎  Start
+priv.au = 152.42.169.114
+searx.ox2.fr = 188.165.209.227
+searx.dresden.network = 85.215.132.56
+search.im-in.space = 5.9.120.158
+search.ononoki.org = 148.135.82.45
+# > searxng搜索引擎 End
+
+
+
+
