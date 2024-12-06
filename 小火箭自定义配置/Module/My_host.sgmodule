@@ -1,6 +1,6 @@
 #!url=https://ghp.ci/https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2024-12-04 
+#!desc=最后更新时间 2024-12-06 
 #!author=ParkCR
 
 
@@ -127,6 +127,9 @@ sv3.paipancon.com = 104.21.234.45
 sv2.paipancon.com = 104.21.234.45
 fl.paipancon.com = 104.17.221.30
 paipancon.com = 104.21.234.45
+javtrailers.com = 104.17.221.30
+media.javtrailers.com = 104.17.221.30
+
 # > Nsfw End
 
 # > everia Start
