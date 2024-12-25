@@ -179,6 +179,12 @@ search.im-in.space = 5.9.120.158
 search.ononoki.org = 148.135.82.45
 # > searxng搜索引擎 End
 
+# > 在线代理列表  Start
+www.newproxies.net = 198.252.102.186
+www.newproxylist.net = 172.64.90.33
+www.proxy-site.net = 172.64.90.33
+hidefrom.com  = 192.3.86.131
+# > 在线代理列表 End
 
 
 
