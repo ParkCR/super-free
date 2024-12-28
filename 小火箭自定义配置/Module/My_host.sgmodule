@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2024-12-25 
+#!desc=最后更新时间 2024-12-28 
 #!author=ParkCR
 
 
@@ -184,6 +184,11 @@ www.newproxies.net = 198.252.102.186
 www.newproxylist.net = 172.64.90.33
 www.proxy-site.net = 172.64.90.33
 hidefrom.com  = 192.3.86.131
+wecanunblock.com  = 192.3.86.131
+quickbypass.com  = 192.3.86.131
+thebestproxy.org  = 192.3.86.131
+costfreezone.com  = 192.3.86.131
+
 # > 在线代理列表 End
 
 
