@@ -96,7 +96,6 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 *.jrants.com = server:https://cloudflare-dns.com/dns-query // jrants图集
 *.eporner.com = server:https://cloudflare-dns.com/dns-query // eporner
 *.oppaisan.com = server:https://cloudflare-dns.com/dns-query // oppaisan
-*.githubusercontent.com = server:https://cloudflare-dns.com/dns-query // github
 
 # > Nsfw Start
 # jrants.com = 172.67.220.164
