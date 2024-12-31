@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2024-12-28 
+#!desc=最后更新时间 2024-12-31 
 #!author=ParkCR
 
 
@@ -95,6 +95,8 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 # > 自定义
 *.jrants.com = server:https://cloudflare-dns.com/dns-query // jrants图集
 *.eporner.com = server:https://cloudflare-dns.com/dns-query // eporner
+*.oppaisan.com = server:https://cloudflare-dns.com/dns-query // oppaisan
+*.githubusercontent.com = server:https://cloudflare-dns.com/dns-query // github
 
 # > Nsfw Start
 # jrants.com = 172.67.220.164
@@ -129,6 +131,16 @@ fl.paipancon.com = 172.64.90.33
 paipancon.com = 104.21.234.45
 javtrailers.com = 172.64.90.33
 media.javtrailers.com = 172.64.90.33
+www.javdatabase.com = 172.64.90.33
+javseen.tv = 172.64.90.33
+www.cospuri.com = 208.74.151.16
+jav.guru = 172.64.90.33
+javpics.com = 172.64.90.33
+javhd.pics = 172.64.90.33
+ugj.net = 172.64.90.33
+www.picnob.com = 172.64.90.33
+www.jav321.com = 172.64.90.33
+
 
 # > Nsfw End
 
@@ -188,7 +200,6 @@ wecanunblock.com  = 192.3.86.131
 quickbypass.com  = 192.3.86.131
 thebestproxy.org  = 192.3.86.131
 costfreezone.com  = 192.3.86.131
-
 # > 在线代理列表 End
 
 
