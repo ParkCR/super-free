@@ -183,11 +183,12 @@ avple.tv = 172.67.71.70
 # > avple End
 
 # > searxng搜索引擎  Start
-priv.au = 152.42.169.114
 searx.ox2.fr = 188.165.209.227
 searx.dresden.network = 85.215.132.56
 search.im-in.space = 5.9.120.158
 search.ononoki.org = 148.135.82.45
+searx.foss.family = 89.216.27.84
+searx.tiekoetter.com = 37.228.134.25
 # > searxng搜索引擎 End
 
 # > 在线代理列表  Start
