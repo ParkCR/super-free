@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2024-12-31 
+#!desc=最后更新时间 2025-1-24 
 #!author=ParkCR
 
 
@@ -139,7 +139,7 @@ javhd.pics = 172.64.90.33
 ugj.net = 172.64.90.33
 www.picnob.com = 172.64.90.33
 www.jav321.com = 172.64.90.33
-
+nsfwmag.com = 172.64.90.33
 
 # > Nsfw End
 
@@ -200,6 +200,7 @@ wecanunblock.com  = 192.3.86.131
 quickbypass.com  = 192.3.86.131
 thebestproxy.org  = 192.3.86.131
 costfreezone.com  = 192.3.86.131
+www.croxyproxy.rocks  = 167.71.43.43
 # > 在线代理列表 End
 
 
