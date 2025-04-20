@@ -1,8 +1,19 @@
-#!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
+#!url=https://fastly.jsdelivr.net/gh/ParkCR/super-free/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2025-3-25 
+#!desc=最后更新时间 2025-4-20 
 #!author=ParkCR
 
+[URL Rewrite]
+# twimg
+^https://(pbs.twimg.com/.*\.?(jpg|jpeg|png|webp|gif|bmp|tiff|ico|svg)).* https://i3.wp.com/$1 307
+# imgur
+^http(s)?://(i\.)?imgur.com\/(.*) https://imgur.fsky.io/$3 307
+# livedoor
+^https://(livedoor.blogimg.jp/.*) https://i3.wp.com/$1 307
+# googleusercontent
+^(http(s)?://blogger.googleusercontent.com/) https://cdn.cdnjson.com/$1 307
+# bp.blogspot.com
+^(http(s)?://\d+\.bp\.blogspot\.com\/.*) https://t2.daumcdn.net/thumb/R2000x0/?fname=$1 307
 
 [Host]
 
