@@ -1,6 +1,6 @@
 #!url=https://fastly.jsdelivr.net/gh/ParkCR/super-free/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2025-4-20 
+#!desc=最后更新时间 2025-5-06 
 #!author=ParkCR
 
 
@@ -141,7 +141,6 @@ ugj.net = 162.159.44.82
 www.picnob.com = 162.159.44.82
 www.jav321.com = 162.159.44.82
 nsfwmag.com = 162.159.44.82
-etoland.co.kr = 162.159.44.82
 beeg.onl = 162.159.44.82
 missav.ws = server:https://cloudflare-dns.com/dns-query
 missav.ai = server:https://cloudflare-dns.com/dns-query
