@@ -1,6 +1,6 @@
 #!url=https://fastly.jsdelivr.net/gh/ParkCR/super-free/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2025-5-06 
+#!desc=最后更新时间 2025-6-24 
 #!author=ParkCR
 
 
@@ -97,7 +97,6 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 *.jrants.com = server:https://cloudflare-dns.com/dns-query // jrants图集
 *.eporner.com = server:https://cloudflare-dns.com/dns-query // eporner
 *.oppaisan.com = server:https://cloudflare-dns.com/dns-query // oppaisan
-*.redgifs.com = server:https://cloudflare-dns.com/dns-query // redgifs
 
 # > Nsfw Start
 # jrants.com = 172.67.220.164
@@ -143,6 +142,16 @@ www.picnob.com = 162.159.44.82
 www.jav321.com = 162.159.44.82
 nsfwmag.com = 162.159.44.82
 beeg.onl = 162.159.44.82
+rou.video = 162.159.44.82
+www.porn-hub.website = 104.16.99.36
+www-pornhub.mrst.one = 104.16.174.108
+www.porn-hub.online = 104.16.236.208
+www.pornhat.com = 162.159.44.82
+static.pornhat.com = 185.240.28.22
+www.pussyspace.com = 162.159.44.82
+www.redgifs.com = 162.159.44.82
+api.redgifs.com = 162.159.44.82
+media.redgifs.com = 143.244.51.53
 missav.ws = server:https://cloudflare-dns.com/dns-query
 missav.ai = server:https://cloudflare-dns.com/dns-query
 
