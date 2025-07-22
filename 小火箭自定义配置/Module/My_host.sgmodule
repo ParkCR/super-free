@@ -1,6 +1,6 @@
 #!url=https://cdn.jsdelivr.net/gh/ParkCR/super-free@main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2025-6-24 
+#!desc=最后更新时间 2025-7-22 
 #!author=ParkCR
 
 
@@ -167,10 +167,10 @@ yunabox.top = 162.159.44.82
 nekobox.top = 162.159.44.82
 nezumi.my.id = 162.159.44.82
 imgyagi.top = 162.159.44.82
-everiaclub.com = 162.159.44.82
-everiaeveria.b-cdn.net = 162.159.44.82
-www.everiaclub.com = 162.159.44.82
-files.everiaclub.com = 162.159.44.82
+everiaclub.com = server:https://cloudflare-dns.com/dns-query // everiaclub图集
+everiaeveria.b-cdn.net = server:https://cloudflare-dns.com/dns-query // everiaclub图集
+www.everiaclub.com = server:https://cloudflare-dns.com/dns-query // everiaclub图集
+files.everiaclub.com = server:https://cloudflare-dns.com/dns-query // everiaclub图集
 # > everia End
 
 # > Supjav Start
