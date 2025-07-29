@@ -6,7 +6,8 @@
 
 [URL Rewrite]
 
-^https?:\/\/vres\.kvod7\.com\/vod1\/units\/vod\/v1\/.* reject
+^https?:\/\/vres\.kvod[0-9]+\.com\/vod1\/units\/vod\/v1\/.*\.(gif|jpg|png|webp)(\?.*)?$ reject-200
+
 
 [Host]
 
