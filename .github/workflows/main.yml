@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       force_refresh_all:
-        description: '强制刷新所有小火箭配置文件'
+        description: '强制刷新所有文件'
         required: false
         type: boolean
         default: false
@@ -27,6 +27,7 @@ jobs:
         uses: tj-actions/changed-files@v42
         with:
           since_last_remote_commit: 'true'
+          format: 'json'
           separator: ','
           base_sha: ${{ github.event.before }}
           sha: ${{ github.event.after }}
@@ -34,14 +35,16 @@ jobs:
       - name: Refresh jsDelivr cache
         run: |
           sleep 10
-
-          if [[ "${{ github.event.inputs.force_refresh_all }}" == "true" ]]; then
-            echo "强制刷新所有小火箭配置文件..."
+          
+          # 手动触发且勾选强制刷新
+          if ${{ github.event.inputs.force_refresh_all }}; then
+            echo "强制刷新所有文件..."
             curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*"
             curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*/*"
+          # 自动触发或手动触发未勾选强制刷新
           else
             if [[ "${{ github.event_name }}" == "push" ]]; then
-              IFS=',' read -ra changed_files <<< "${{ steps.changed-files.outputs.all_changed_files || '' }}"
+              IFS=',' read -ra changed_files <<< "${{ steps.changed-files.outputs.all_changed_files }}"
               for file in "${changed_files[@]}"; do
                 if [[ "$file" == 小火箭自定义配置/* ]]; then
                   echo "Refreshing cache for: $file"
@@ -50,6 +53,6 @@ jobs:
                 fi
               done
             else
-              echo "手动触发但未选择强制刷新，未执行任何操作。"
+              echo "手动触发但未选择强制刷新，未执行操作。"
             fi
           fi
