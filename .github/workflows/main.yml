@@ -1,0 +1,41 @@
+name: Refresh Cache for Changed Files
+
+on:
+  push:
+    paths:
+      - '小火箭自定义配置/**'
+
+jobs:
+  refresh-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 需要获取完整的提交历史才能比较文件变化
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v42
+        with:
+          since_last_remote_commit: 'true'
+          separator: ','
+          base_sha: ${{ github.event.before }}
+          sha: ${{ github.event.after }}
+
+      - name: Refresh jsDelivr cache for changed files
+        run: |
+          # Wait a few seconds to ensure changes are propagated
+          sleep 10
+          
+          # 分割变更文件列表
+          IFS=',' read -ra changed_files <<< "${{ steps.changed-files.outputs.all_changed_files }}"
+          
+          # 遍历变更文件并刷新缓存
+          for file in "${changed_files[@]}"; do
+            if [[ "$file" == 小火箭自定义配置/* ]]; then
+              echo "Refreshing cache for: $file"
+              curl "https://purge.jsdelivr.net/gh/${{github.repository}}/$file"
+              sleep 1  # 添加短暂延迟避免速率限制
+            fi
+          done
