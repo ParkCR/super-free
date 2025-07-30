@@ -4,10 +4,10 @@ on:
   push:
     paths:
       - '小火箭自定义配置/**'
-  workflow_dispatch:  # 添加手动触发支持
+  workflow_dispatch:
     inputs:
       force_refresh_all:
-        description: '强制刷新所有小火箭配置文件（而不仅仅是变更文件）'
+        description: '强制刷新所有小火箭配置文件'
         required: false
         type: boolean
         default: false
@@ -21,7 +21,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get changed files (仅自动触发时生效)
+      - name: Get changed files
         if: github.event_name == 'push'
         id: changed-files
         uses: tj-actions/changed-files@v42
@@ -35,13 +35,11 @@ jobs:
         run: |
           sleep 10
 
-          # 如果是手动触发且选择强制刷新所有文件
-          if ${{ github.event.inputs.force_refresh_all }}; then
+          if [[ "${{ github.event.inputs.force_refresh_all }}" == "true" ]]; then
             echo "强制刷新所有小火箭配置文件..."
             curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*"
-            curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*/*"  # 支持子目录
+            curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*/*"
           else
-            # 自动触发或手动触发不强制刷新时，仅刷新变更文件
             if [[ "${{ github.event_name }}" == "push" ]]; then
               IFS=',' read -ra changed_files <<< "${{ steps.changed-files.outputs.all_changed_files || '' }}"
               for file in "${changed_files[@]}"; do
