@@ -1,16 +1,10 @@
-name: Refresh Cache for Changed Files
+name: Refresh Cache on File Changes
 
 on:
   push:
     paths:
       - '小火箭自定义配置/**'
-  workflow_dispatch:
-    inputs:
-      force_refresh_all:
-        description: '强制刷新所有小火箭配置文件'
-        required: false
-        type: boolean
-        default: false
+  workflow_dispatch:  # 允许手动触发工作流
 
 jobs:
   refresh-cache:
@@ -18,43 +12,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      - name: Get changed files (仅自动触发时生效)
-        if: github.event_name == 'push'
-        id: changed-files
+      - name: Refresh jsDelivr cache for all files
         run: |
-          # 使用Git命令直接获取变更文件，避免中文编码问题
-          changed_files=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep '小火箭自定义配置/' | tr '\n' ',')
-          echo "all_changed_files=$changed_files" >> $GITHUB_OUTPUT
-
-      - name: Refresh jsDelivr cache
-        run: |
+          # Wait a few seconds to ensure changes are propagated
           sleep 10
-
-          if [ "${{ github.event_name == 'workflow_dispatch' && github.event.inputs.force_refresh_all == 'true' }}" = "true" ]; then
-            echo "强制刷新所有小火箭配置文件..."
-            curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*"
-            curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*/*"
-          else
-            if [[ "${{ github.event_name }}" == "push" ]]; then
-              changed_files_str="${{ steps.changed-files.outputs.all_changed_files || '' }}"
-              IFS=',' read -ra changed_files <<< "$changed_files_str"
-              
-              if [ ${#changed_files[@]} -eq 0 ]; then
-                echo "没有检测到变更文件，无需刷新缓存。"
-              else
-                for file in "${changed_files[@]}"; do
-                  if [[ -n "$file" ]]; then  # 跳过空值
-                    echo "Refreshing cache for: $file"
-                    curl "https://purge.jsdelivr.net/gh/${{github.repository}}/$file"
-                    sleep 1
-                  fi
-                done
-              fi
-            else
-              echo "手动触发但未选择强制刷新，未执行任何操作。"
-            fi
-          fi
-    
+          # 刷新小火箭自定义配置目录下的所有文件
+          curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*"
+          
+          # 如果需要刷新特定文件类型，可以取消下面的注释并修改
+          # curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*.conf"
+          # curl "https://purge.jsdelivr.net/gh/${{github.repository}}/小火箭自定义配置/*.txt"
