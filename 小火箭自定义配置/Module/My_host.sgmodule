@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2025-7-29 
+#!desc=最后更新时间 2025-8-12 
 #!author=ParkCR
 
 
@@ -155,7 +155,7 @@ static.pornhat.com = 185.240.28.22
 www.pussyspace.com = 162.159.44.82
 www.redgifs.com = 162.159.44.82
 api.redgifs.com = 162.159.44.82
-media.redgifs.com = 143.244.51.53
+media.redgifs.com = server:https://cloudflare-dns.com/dns-query
 missav.ws = server:https://cloudflare-dns.com/dns-query
 missav.ai = server:https://cloudflare-dns.com/dns-query
 
