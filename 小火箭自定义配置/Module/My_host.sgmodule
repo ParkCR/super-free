@@ -102,37 +102,107 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 *.eporner.com = server:https://cloudflare-dns.com/dns-query // eporner
 *.oppaisan.com = server:https://cloudflare-dns.com/dns-query // oppaisan
 
-# > Nsfw Start
-# jrants.com = 172.67.220.164
-# www.sex.com = 209.50.58.179
-www.sex.com = 18.194.126.46
-cdn.sex.com = 169.150.236.98
-livedoor.blogimg.jp = 18.238.80.58
-resize.blogsys.jp = 18.238.80.58
-www.24fa.com = 162.159.44.82
-legs.a-hadaka.jp = 162.159.44.82
-bi-girl.net = 162.159.44.82
-r18.clickme.net = 162.159.44.82
+# === 统计信息开始 ===
+# 最后更新时间(北京时间): 2025-08-25 19:58:52
+# 总条目数: 334
+# 本次变动: 首次统计
+# === 统计信息结束 ===
+
+
+# r18.clickme Start
 cdn.clickme.net = 162.159.44.82
-translate.google.com = 47.102.115.14
-translate.googleapis.com = 47.102.115.14
-translate-pa.googleapis.com = 47.102.115.14
-missav.com = 162.159.44.82
-cdn.buondua.com = 162.159.44.82
-i0.buondua.com = 162.159.44.82
-buondua.com = 162.159.44.82
-img.16k.club = 162.159.44.82
-16k.club = 162.159.44.82
-cn.16k.club = 162.159.44.82
-video.twimg.com = 146.75.92.158
-pbs.twimg.com = 146.75.28.159
+r18.clickme.net = 162.159.44.82
+# 104.26.3.83          r18.clickme.net
+# 172.67.70.135          r18.clickme.net
+# r18.clickme End
+
+
+# Nsfw Start
 www.javbus.com = 162.159.44.82
+v16m.tiktokcdn.com = 23.199.47.149
+tikviewer.com = 172.67.195.106
+javdb.com = 104.21.49.230
+njav.tv = 162.159.44.82
+www.metarthunter.com = 104.21.57.195
+cdn.metarthunter.com = 156.146.53.32
+www.sehuatang.net = 172.67.146.10
+javfilms.com = 3.223.23.129
+// 104.17.44.119          theporndude.com
+thothub.to = 162.159.44.82
+fyptt.to = 162.159.44.82
+namethatporn.com = 184.154.69.246
+sexinsex.net = 174.127.195.202
+www.taohuazu.com = 172.247.21.147
+btsow.mom = 193.233.203.21
+freejavbt.com = 172.67.212.251
+solji.kim = 104.26.2.22
+nsfw.xxx = 104.21.233.153
+yande.re = 198.98.54.92
 xslist.org = 162.159.44.82
+xslist.org = 104.21.77.28
+m1.xslist.org = 172.67.203.226
+civitai.com = 104.18.22.206
+image.civitai.com = 104.18.22.206
+16k.club = 172.67.175.133
+cn.16k.club = 172.67.175.133
+img.16k.club = 172.67.175.133
+so.techlife.app = 172.67.134.57
+sougouwiki.com = 59.106.195.179
+ytapi.download = 104.26.15.129
+cdn03.ytapi.download = 104.26.15.129
+souka.xyz = 188.114.96.3
+projectjav.com = 162.159.44.82
+www.141jav.com = 104.21.235.64
+sukebei.nyaa.si = 198.251.89.38
+sukebeisi.sitescrack.host = 162.159.44.82
+paipancon.com = 104.21.234.45
+avgle.com = 172.67.180.203
+kisscos.net = 172.67.68.107
+www.javlibrary.com = 172.67.206.15
+javlib.com = 162.159.44.82
+ijavtorrent.com = 162.159.44.82
+images.ijavtorrent.com = 162.159.44.82
+njavtv.com = 104.26.6.251
+nanojav.com = 162.159.44.82
+m.nanojav.com = 162.159.44.82
+xiutaku.com = 172.67.130.46
 op1.paipancon.com = 104.21.234.45
 sv3.paipancon.com = 104.21.234.45
 sv2.paipancon.com = 104.21.234.45
 fl.paipancon.com = 162.159.44.82
 paipancon.com = 104.21.234.45
+hotgirl.asia = 188.166.248.250
+mogura.my.id = 162.159.44.82
+video.twimg.com = 146.75.92.158
+# 93.184.215.217          video.twimg.com
+# 146.75.80.159            pbs.twimg.com
+pbs.twimg.com = 146.75.28.159
+yandex.com = 77.88.55.88
+# 5.255.255.77             yandex.ru
+# 77.88.55.88             yandex.by
+photo.camcam.cc = 142.54.163.90
+v.redd.it = 151.101.129.140
+javsubs91.com = 91.195.240.117
+avtop10.com = 172.233.137.238
+sexbjcam.com = 172.67.68.39
+u3c3.com = 104.21.14.198
+www.micmicidol.com = 104.21.48.132
+youravhost.net = 45.79.102.229
+ios.pipigou889.top = 162.159.44.82
+jjgirls.com = 162.159.44.82
+www.eporner.com = 94.75.220.2
+static-sg-cdn.eporner.com = 51.79.229.79
+chiba-f.net = 162.159.44.82    #-> AV女优人物搜索引擎
+livedoor.blogimg.jp = 18.238.80.58    #-> 日系杂志的图床
+resize.blogsys.jp = 18.238.80.58    #-> 日系杂志的图床
+blog.livedoor.jp = 147.92.146.242 #-> 日系杂志的网页
+javdoe.to = 162.159.44.82
+javhd.today = 162.159.44.82
+pics.javhd.today = 162.159.44.82
+javhdz.today = 162.159.44.82
+pics.javhdz.today = 162.159.44.82
+danryoku.com = 162.159.44.82
+idol.gravureprincess.date = 162.159.44.82 #-> 日本写真站
 javtrailers.com = 162.159.44.82
 media.javtrailers.com = 162.159.44.82
 www.javdatabase.com = 162.159.44.82
@@ -145,7 +215,27 @@ ugj.net = 162.159.44.82
 www.picnob.com = 162.159.44.82
 www.jav321.com = 162.159.44.82
 nsfwmag.com = 162.159.44.82
-beeg.onl = 162.159.44.82
+ero-video.net = 69.36.160.170
+cdnmedia.ero-video.net = 23.237.196.42
+// 162.159.44.82            misskon.com
+www.heye.kr = 162.159.44.82
+heye.kr = 162.159.44.82
+gifsf.com = 162.159.44.82 #-> 韩国论坛 优选Ip明显加速
+mbong.kr = 104.19.123.145 #-> 韩国论坛 优选Ip明显加速
+ggoorr.net = 104.19.123.145 #-> 韩国论坛 优选Ip明显加速
+etoland.co.kr = 98.98.65.10 #-> 韩国论坛 五月份更换了服务器国外Ip明显加速
+www.etoland.co.kr = 98.98.65.10 #-> 韩国论坛 五月份更换了服务器国外Ip明显加速
+manpeace.org = 112.171.184.147 #-> 韩国论坛 优选Ip明显加速
+www.depvailon.com = 104.19.123.145
+beeg.com = 104.19.123.145
+www.saveporn.net = 104.19.123.145
+www.hitprn.com = 104.19.123.145
+ddownr.com = 104.19.123.145 #-> 油管下载
+www5.javmost.com = 104.19.123.145
+vjav.com = 109.206.162.45
+sextb.xyz = 162.159.44.82
+hjd2048.com = 162.159.44.82
+jav-angel.net = 162.159.44.82
 rou.video = 162.159.44.82
 www.porn-hub.website = 104.16.99.36
 www-pornhub.mrst.one = 104.16.174.108
@@ -156,31 +246,71 @@ www.pussyspace.com = 162.159.44.82
 www.redgifs.com = 162.159.44.82
 api.redgifs.com = 162.159.44.82
 media.redgifs.com = 156.146.53.32
-missav.ws = server:https://cloudflare-dns.com/dns-query
-missav.ai = server:https://cloudflare-dns.com/dns-query
+userpic.redgifs.com = 156.146.53.32
+thotporn.tv = 162.159.44.82
+thepiratebay.org = 162.159.136.6
+zh.xhamster.com = 88.208.29.180
+missav123.com = 162.159.44.82
+t2.daumcdn.net = 23.199.47.206 #-> 韩国图床缓存服务
+t1.daumcdn.net = 23.199.47.206 #-> 韩国图床缓存服务
+tistory1.daumcdn.net = 121.53.202.238 #-> 韩国论坛服务
+blog.kakaocdn.net = 110.76.142.63 #-> 韩国论坛服务
+cdn.gravurehunter.com = 156.146.53.33 #-> www.jperotica.com 写真网站
+zzalzzang.tistory.com = 121.53.204.130 #-> 韩国论坛 优选Ip明显加速
+fapix.porn = 162.159.44.82
+javstore.net = 162.159.44.82
+img.javstore.net = 162.159.44.82
+tktube.com = 162.159.44.82
+javopen.co = 162.159.44.82
+javgiga.com = 162.159.44.82
+javdoe.sh = 162.159.44.82
+www.javdoe.sh = 162.159.44.82
 
-# > Nsfw End
+# Nsfw End
 
-# > everia Start
-everia.club = 162.159.44.82
-takobox.top = 162.159.44.82
-hitsuji.my.id = 162.159.44.82
-quenbox.top = 162.159.44.82
-kumabox.top = 162.159.44.82
-yunabox.top = 162.159.44.82
-nekobox.top = 162.159.44.82
-nezumi.my.id = 162.159.44.82
-imgyagi.top = 162.159.44.82
-everiaclub.com = server:https://cloudflare-dns.com/dns-query // everiaclub图集
-everiaeveria.b-cdn.net = server:https://cloudflare-dns.com/dns-query // everiaclub图集
-www.everiaclub.com = server:https://cloudflare-dns.com/dns-query // everiaclub图集
-files.everiaclub.com = server:https://cloudflare-dns.com/dns-query // everiaclub图集
-# > everia End
+# nikkanerog.com  Start
+blog-imgs-175.fc2.com = 156.146.53.33
+blog-imgs-167.fc2.com = 156.146.53.33
+blog-imgs-164.fc2.com = 156.146.53.33 #-> nikkanerog.com的css文件域名
+blog-imgs-159.fc2.com = 156.146.53.33
+blog-imgs-155.fc2.com = 156.146.53.33
+blog-imgs-145.fc2.com = 156.146.53.33
+blog-imgs-143.fc2.com = 156.146.53.33
+blog-imgs-109.fc2.com = 156.146.53.33
+blog-imgs-107.fc2.com = 156.146.53.33
+blog-imgs-101.fc2.com = 156.146.53.33
+blog-imgs-99.fc2.com = 156.146.53.33
+blog-imgs-67.fc2.com = 156.146.53.33
+blog-imgs-70.fc2.com = 156.146.53.33
+blog-imgs-53.fc2.com = 156.146.53.33
+blog-imgs-27.fc2.com = 156.146.53.33
+blog-imgs-19.fc2.com = 156.146.53.33
+static.fc2.com = 156.146.53.33
+blogthumbnail.fc2.com = 156.146.53.33
+# nikkanerog.com  End
 
-# > Supjav Start
+# pornhat.com系列网站 Start
+ok.xxx = 162.159.44.82
+static.ok.xxx = 185.240.28.22
+pornstars.tube = 162.159.44.82
+static.pornstars.tube = 185.240.28.22
+hello.porn = 162.159.44.82
+static.hello.porn = 185.240.28.22
+pics-storage-1.pornhat.com = 185.75.76.146
+# pornhat.com系列网站 End
+
+# spankbang.com Start
+// 104.19.136.100          spankbang.com
+spankbang.com = 162.159.44.82
+jp.spankbang.com = 162.159.44.82
+fr.spankbang.com = 162.159.44.82
+# spankbang.com End
+
+#Supjav Start
 supjav.com = 162.159.44.82
 img.supjav.com = 162.159.44.82
-# TV线路 fst线路 st线路 ds线路 sw线路 vh线路 TV线路
+lk1.supremejav.com = 162.159.44.82
+#TV线路 fst线路 st线路 ds线路 sw线路 vh线路 TV线路
 emturbovid.com = 162.159.44.82
 fc2stream.tv = 162.159.44.82
 streamtape.com = 162.159.44.82
@@ -190,32 +320,174 @@ streamwish.com = 162.159.44.82
 vembed.net = 162.159.44.82
 vidhidepro.com = 162.159.44.82
 turboviplay.com = 162.159.44.82
-# > Supjav End
+# Supjav End
 
-# > avple Start
+#avple Start
 assert.avple.tv = 172.67.71.70
 asserts.avple.tv = 172.67.71.70
 www.avple.tv = 172.67.71.70
 en.avple.tv = 172.67.71.70
 avple.tv = 172.67.71.70
-# > avple End
+# avple End
 
-# > searxng搜索引擎  Start
+# avgle Start
+avgle.com = 172.67.180.203
+static-clst.avgle.com = 45.133.44.10
+# avgle End
+
+# cloudflare Start
+buondua.com = 162.159.44.82
+cdn.buondua.com = 162.159.44.82
+i0.buondua.com = 162.159.44.82
+limbopro.com = 162.159.44.82
+urlebird.com = 162.159.44.82
+ikanins.com = 162.159.44.82
+www.ikanins.com = 162.159.44.82
+img.erogazou.gallery = 162.159.44.82
+img2.erogazou.gallery = 162.159.44.82
+erogazou.gallery = 162.159.44.82
+bi-girl.net = 162.159.44.82
+erogazooo.club = 162.159.44.82
+erogirl.net = 162.159.44.82
+goddess247.com = 162.159.44.82
+hitxhot.com = 162.159.44.82
+hitxhot.org = 162.159.44.82
+www.hitxhot.org = 162.159.44.82
+ososedki.com = 162.159.44.82
+www.ilovexs.com = 162.159.44.82
+pics.avjiasu.com = 162.159.44.82
+avitter.net = 162.159.44.82
+gimy.ai = 162.159.44.82
+javdb522.com = 162.159.44.82
+c0.jdbstatic.com = 162.159.44.82
+legs.a-hadaka.jp = 162.159.44.82
+a-hadaka.jp = 162.159.44.82
+onejav.com = 162.159.44.82
+# 162.159.44.82             3600000.xyz   #-> 墙
+javhd.today = 162.159.44.82
+javday.tv = 162.159.44.82
+hpjav.tv = 162.159.44.82
+taiav.com = 162.159.44.82
+happy.5ge.net = 162.159.44.82
+static.5ge.net = 162.159.44.82
+androsound.ru = 162.159.44.82
+www.abskoop.com = 162.159.44.82
+made.porn = 162.159.44.82
+mrcong.com = 162.159.44.82
+lux.mrcong.com = 162.159.44.82
+javtiful.com = 162.159.44.82
+www.24fa.com = 162.159.44.82
+netflav.com = 162.159.44.82
+# 162.159.44.82             netflav5.com
+www.croxy.red = 162.159.44.82
+#162.159.44.82             www.depvailon.com
+www.ecosia.org = 162.159.44.82
+prompthero.com = 162.159.44.82
+kissjav.com = 162.159.44.82
+javgg.net = 162.159.44.82
+images.javgg.net = 162.159.44.82
+www.croxyproxy.com = 162.159.44.82
+reprint-kh.com = 162.159.44.82
+javtree.com = 162.159.44.82
+7mmtv.sx = 162.159.44.82
+javmovs.com = 162.159.44.82
+www.perplexity.ai = 162.159.44.82
+javmulu.net = 162.159.44.82
+www.winkav.com = 162.159.44.82
+sexkbj.com = 162.159.44.82
+nudebird.biz = 162.159.44.82
+cosplaytele.com = 162.159.44.82
+x6o.com = 162.159.44.82
+www.boobpedia.com = 162.159.44.82
+www.jkforum.net = 162.159.44.82
+proxyway.com = 162.159.44.82
+cn-greasyfork.org = 162.159.44.82
+
+
+# cloudflare End
+
+# everia Start
+everia.club = 162.159.44.82
+# 104.21.74.36               everia.club
+takobox.top = 162.159.44.82
+hitsuji.my.id = 162.159.44.82
+quenbox.top = 162.159.44.82
+kumabox.top = 162.159.44.82
+yunabox.top = 162.159.44.82
+nekobox.top = 162.159.44.82
+nezumi.my.id = 162.159.44.82
+imgyagi.top = 162.159.44.82
+
+# 162.159.44.82             everiaeveria.b-cdn.net
+# 162.159.44.82             www.everiaclub.com
+# 162.159.44.82             files.everiaclub.com
+# everia End
+
+# wallhaven Start
+# 104.26.11.35              th.wallhaven.cc
+# 104.26.11.35              w.wallhaven.cc
+# 104.26.11.35              www.wallhaven.cc
+# 104.26.11.35              wallhaven.cc
+# 104.26.11.35              alpha.wallhaven.cc
+# wallhaven End
+
+# fix google translate Start
+translate-pa.googleapis.com = 120.79.149.13 #-> 谷歌翻译国内重定向
+translate.google.com = 120.79.149.13
+translate.googleapis.com = 120.79.149.13
+# fix google translate End
+
+# searxng搜索引擎 Start
 searx.ox2.fr = 188.165.209.227
-searx.dresden.network = 85.215.132.56
+searx.dresden.network = 193.32.222.35
 search.im-in.space = 5.9.120.158
 search.ononoki.org = 148.135.82.45
-priv.au = 185.44.83.31
-# > searxng搜索引擎 End
+priv.au = 69.197.130.148
 
-# > 在线代理列表  Start
-www.newproxies.net = 198.252.102.186
-www.newproxylist.net = 162.159.44.82
-www.proxy-site.net = 162.159.44.82
-hidefrom.com  = 192.3.86.131
-wecanunblock.com  = 192.3.86.131
-quickbypass.com  = 192.3.86.131
-thebestproxy.org  = 192.3.86.131
-costfreezone.com  = 192.3.86.131
-www.croxyproxy.rocks  = 167.71.43.43
-# > 在线代理列表 End
+# searxng搜索引擎 End
+
+# 在线代理 Start
+www.genmirror.com = 104.21.234.81
+www.genmirror.com = 104.21.234.80
+www.newproxies.net = 198.252.102.186            #-> 在线代理列表
+www.newproxylist.net = 162.159.44.82          #-> 在线代理列表
+hidefrom.com = 192.3.86.131                  #-> 在线代理列表
+www.proxy-site.net = 162.159.44.82            #-> 在线代理列表
+wecanunblock.com = 192.3.86.131
+www.wecanunblock.com = 192.3.86.131
+quickbypass.com = 192.3.86.131
+thebestproxy.org = 192.3.86.131
+costfreezone.com = 192.3.86.131
+www.croxyproxy.rocks = 167.71.43.43
+www.youtubeunblocked.live = 157.245.18.208
+# 在线代理 End
+
+# sex.com Start
+www.sex.com = 54.169.242.120
+videos.sex.com = 13.226.61.127
+cdn.sex.com = 84.17.57.27
+m2.cdn.sex.com = 156.146.56.161
+imagex1.sx.cdn.live = 156.146.53.36
+# sex.com End
+
+# 未分类 Start
+ns.take2games.com = 127.0.0.1
+nba2k14.pc.2ksports.com = 127.0.0.1
+t66y.com = 162.240.72.31
+www.turbohide.org = 142.4.204.230
+www.qwant.com = 194.187.168.100
+duckduckgo.com = 40.89.244.232
+www.startpage.com = 216.218.239.42
+www.wandou.pro = 172.247.242.179
+ai.dawnmark.cn = 120.55.163.96
+zqjy.info = 107.180.1.33
+thatpervert.com = 51.68.155.228
+fanqiangdang.com = 104.16.248.1
+www.prestige-av.com = 54.192.18.64
+i.redd.it = 151.101.1.140
+external-preview.redd.it = 151.101.1.140
+oggi.jp = 182.236.92.146   #-> oggi 官网
+filters.adtidy.org = 156.146.53.33   #-> uBlock Origin扩展内置规则域名
+cdn.jsdelivr.net = 104.16.175.226  #-> 腾讯dns污染了域名分析，后续正常后可移除
+
+# 未分类 End
