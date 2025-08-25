@@ -103,7 +103,7 @@ upos-sz-upcdnbd??.bilivideo.com = server:180.76.76.76 // BiliBili upos视频服�
 *.oppaisan.com = server:https://cloudflare-dns.com/dns-query // oppaisan
 
 # === 统计信息开始 ===
-# 最后更新时间(北京时间): 2025-08-25 19:58:52
+# 最后更新时间(北京时间): 2025-08-25 20:15:13
 # 总条目数: 334
 # 本次变动: 首次统计
 # === 统计信息结束 ===
@@ -127,7 +127,7 @@ www.metarthunter.com = 104.21.57.195
 cdn.metarthunter.com = 156.146.53.32
 www.sehuatang.net = 172.67.146.10
 javfilms.com = 3.223.23.129
-// 104.17.44.119          theporndude.com
+# 104.17.44.119          theporndude.com
 thothub.to = 162.159.44.82
 fyptt.to = 162.159.44.82
 namethatporn.com = 184.154.69.246
@@ -217,7 +217,7 @@ www.jav321.com = 162.159.44.82
 nsfwmag.com = 162.159.44.82
 ero-video.net = 69.36.160.170
 cdnmedia.ero-video.net = 23.237.196.42
-// 162.159.44.82            misskon.com
+# 162.159.44.82            misskon.com
 www.heye.kr = 162.159.44.82
 heye.kr = 162.159.44.82
 gifsf.com = 162.159.44.82 #-> 韩国论坛 优选Ip明显加速
@@ -300,7 +300,7 @@ pics-storage-1.pornhat.com = 185.75.76.146
 # pornhat.com系列网站 End
 
 # spankbang.com Start
-// 104.19.136.100          spankbang.com
+# 104.19.136.100          spankbang.com
 spankbang.com = 162.159.44.82
 jp.spankbang.com = 162.159.44.82
 fr.spankbang.com = 162.159.44.82
