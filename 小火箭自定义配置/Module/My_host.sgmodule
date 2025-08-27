@@ -217,16 +217,6 @@ www.jav321.com = 162.159.44.82
 nsfwmag.com = 162.159.44.82
 ero-video.net = 69.36.160.170
 cdnmedia.ero-video.net = 23.237.196.42
-# 162.159.44.82            misskon.com
-www.heye.kr = 162.159.44.82
-heye.kr = 162.159.44.82
-gifsf.com = 162.159.44.82 #-> 韩国论坛 优选Ip明显加速
-mbong.kr = 104.19.123.145 #-> 韩国论坛 优选Ip明显加速
-ggoorr.net = 104.19.123.145 #-> 韩国论坛 优选Ip明显加速
-etoland.co.kr = 98.98.65.10 #-> 韩国论坛 五月份更换了服务器国外Ip明显加速
-www.etoland.co.kr = 98.98.65.10 #-> 韩国论坛 五月份更换了服务器国外Ip明显加速
-manpeace.org = 112.171.184.147 #-> 韩国论坛 优选Ip明显加速
-www.depvailon.com = 104.19.123.145
 beeg.com = 104.19.123.145
 www.saveporn.net = 104.19.123.145
 www.hitprn.com = 104.19.123.145
@@ -251,8 +241,6 @@ thotporn.tv = 162.159.44.82
 thepiratebay.org = 162.159.136.6
 zh.xhamster.com = 88.208.29.180
 missav123.com = 162.159.44.82
-t2.daumcdn.net = 23.199.47.206 #-> 韩国图床缓存服务
-t1.daumcdn.net = 23.199.47.206 #-> 韩国图床缓存服务
 tistory1.daumcdn.net = 121.53.202.238 #-> 韩国论坛服务
 blog.kakaocdn.net = 110.76.142.63 #-> 韩国论坛服务
 cdn.gravurehunter.com = 156.146.53.33 #-> www.jperotica.com 写真网站
@@ -354,16 +342,13 @@ hitxhot.com = 162.159.44.82
 hitxhot.org = 162.159.44.82
 www.hitxhot.org = 162.159.44.82
 ososedki.com = 162.159.44.82
-www.ilovexs.com = 162.159.44.82
 pics.avjiasu.com = 162.159.44.82
 avitter.net = 162.159.44.82
 gimy.ai = 162.159.44.82
-javdb522.com = 162.159.44.82
 c0.jdbstatic.com = 162.159.44.82
 legs.a-hadaka.jp = 162.159.44.82
 a-hadaka.jp = 162.159.44.82
 onejav.com = 162.159.44.82
-# 162.159.44.82             3600000.xyz   #-> 墙
 javhd.today = 162.159.44.82
 javday.tv = 162.159.44.82
 hpjav.tv = 162.159.44.82
@@ -418,18 +403,9 @@ nekobox.top = 162.159.44.82
 nezumi.my.id = 162.159.44.82
 imgyagi.top = 162.159.44.82
 
-# 162.159.44.82             everiaeveria.b-cdn.net
-# 162.159.44.82             www.everiaclub.com
-# 162.159.44.82             files.everiaclub.com
 # everia End
 
-# wallhaven Start
-# 104.26.11.35              th.wallhaven.cc
-# 104.26.11.35              w.wallhaven.cc
-# 104.26.11.35              www.wallhaven.cc
-# 104.26.11.35              wallhaven.cc
-# 104.26.11.35              alpha.wallhaven.cc
-# wallhaven End
+
 
 # fix google translate Start
 translate-pa.googleapis.com = 120.79.149.13 #-> 谷歌翻译国内重定向
