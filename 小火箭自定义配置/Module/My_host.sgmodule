@@ -9,6 +9,15 @@
 ^https?:\/\/vres\.kvod[0-9]+\.com\/vod1\/units\/vod\/v1\/.*\.(gif|jpg|png|webp)(\?.*)?$ reject-200
 
 
+[Rule]
+!!---brave---
+DOMAIN-SUFFIX,search.brave.com,DIRECT
+!!---google translate---
+DOMAIN-SUFFIX,translate-pa.googleapis.com,DIRECT #-> 谷歌翻译国内重定向
+DOMAIN-SUFFIX,translate.google.com,DIRECT
+DOMAIN-SUFFIX,translate.googleapis.com,DIRECT
+
+
 [Host]
 
 # > 腾讯
