@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2026-5-21 
+#!desc=最后更新时间 2026-6-08 
 #!author=ParkCR
 
 
@@ -460,7 +460,7 @@ ns.take2games.com = 127.0.0.1
 nba2k14.pc.2ksports.com = 127.0.0.1
 t66y.com = 162.240.72.31
 www.turbohide.org = 142.4.204.230
-search.brave.com = 13.33.45.107
+search.brave.com = 13.35.190.56
 imgs.search.brave.com = 13.33.45.22
 cdn.search.brave.com = 13.249.74.109
 ai.dawnmark.cn = 120.55.163.96
