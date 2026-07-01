@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,search.brave.com,DIRECT
 DOMAIN-SUFFIX,translate-pa.googleapis.com,DIRECT #-> 谷歌翻译国内重定向
 DOMAIN-SUFFIX,translate.google.com,DIRECT
 DOMAIN-SUFFIX,translate.googleapis.com,DIRECT
-DOMAIN-SUFFIX,video.twimg.com,DIRECT
+
 
 [Host]
 
