@@ -1,6 +1,6 @@
 #!url=https://raw.githubusercontent.com/ParkCR/super-free/main/%E5%B0%8F%E7%81%AB%E7%AE%AD%E8%87%AA%E5%AE%9A%E4%B9%89%E9%85%8D%E7%BD%AE/Module/My_host.sgmodule
 #!name=My_host
-#!desc=最后更新时间 2026-6-08 
+#!desc=最后更新时间 2026-7-01 
 #!author=ParkCR
 
 
@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,search.brave.com,DIRECT
 DOMAIN-SUFFIX,translate-pa.googleapis.com,DIRECT #-> 谷歌翻译国内重定向
 DOMAIN-SUFFIX,translate.google.com,DIRECT
 DOMAIN-SUFFIX,translate.googleapis.com,DIRECT
-
+DOMAIN-SUFFIX,video.twimg.com,DIRECT
 
 [Host]
 
@@ -448,8 +448,8 @@ www.youtubeunblocked.live = 157.245.18.208
 # 在线代理 End
 
 # sex.com Start
-www.sex.com = 54.169.242.120
-videos.sex.com = 13.226.61.127
+www.sex.com = 18.192.146.216
+videos.sex.com = 18.65.14.96
 cdn.sex.com = 84.17.57.27
 m2.cdn.sex.com = 156.146.56.161
 imagex1.sx.cdn.live = 156.146.53.36
